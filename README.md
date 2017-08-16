@@ -7,8 +7,10 @@ This is example is to show diffrent parts of the Git repository and various comm
 
 ## Purpose
 
-## Deploy
+As stated above, the main purpose is to provide simple example for Git traning demo.
 
-Sample website with plenty of files for demos
+## Deployment
+
+This is a simple web project, deployment can be on any web server or even local file system.
 ## How To Contribute
 This is first comment 
