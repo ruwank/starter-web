@@ -4,10 +4,11 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Rasika Kumara
 
 # THANKS
 
-    <name>
+   Thanks to All student
 
 # TECHNOLOGY COLOPHON
 
